@@ -41,7 +41,7 @@
 
 **安装**
 
-1. 打开 [最新 Release](https://github.com/Piracola/Firefox-Portable/releases/latest)
+1. 打开 [最新 Release](https://github.com/xmirager/Firefox-Portable/releases/latest)
 2. 下载 `Firefox_<版本号>.7z`（**不要**下载 `Source code`）
 3. 解压到任意目录，例如 `D:\Browser\Firefox`
 4. 双击 `开始.bat` 生成快捷方式，之后用快捷方式启动
@@ -101,12 +101,12 @@ Firefox 是 Mozilla Foundation 的商标，浏览器本体版权归 Mozilla 所�
 
 </div>
 
-[badge-release]: https://img.shields.io/github/v/release/Piracola/Firefox-Portable?display_name=tag&style=flat-square&color=d8653f&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC
-[badge-downloads]: https://img.shields.io/github/downloads/Piracola/Firefox-Portable/total?style=flat-square&color=2ea043&label=%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F
-[badge-build]: https://img.shields.io/github/actions/workflow/status/Piracola/Firefox-Portable/Firefox-Portable-Package.yml?branch=main&style=flat-square&label=%E6%9E%84%E5%BB%BA%E7%8A%B6%E6%80%81
-[badge-license]: https://img.shields.io/github/license/Piracola/Firefox-Portable?style=flat-square&color=6e7681&label=%E8%AE%B8%E5%8F%AF%E8%AF%81
+[badge-release]: https://img.shields.io/github/v/release/xmirager/Firefox-Portable?display_name=tag&style=flat-square&color=d8653f&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC
+[badge-downloads]: https://img.shields.io/github/downloads/xmirager/Firefox-Portable/total?style=flat-square&color=2ea043&label=%E6%80%BB%E4%B8%8B%E8%BD%BD%E9%87%8F
+[badge-build]: https://img.shields.io/github/actions/workflow/status/xmirager/Firefox-Portable/Firefox-Portable-Package.yml?branch=main&style=flat-square&label=%E6%9E%84%E5%BB%BA%E7%8A%B6%E6%80%81
+[badge-license]: https://img.shields.io/github/license/xmirager/Firefox-Portable?style=flat-square&color=6e7681&label=%E8%AE%B8%E5%8F%AF%E8%AF%81
 
-[link-release]: https://github.com/Piracola/Firefox-Portable/releases/latest
+[link-release]: https://github.com/xmirager/Firefox-Portable/releases/latest
 [link-usage]: ./docs/usage.md
-[link-actions]: https://github.com/Piracola/Firefox-Portable/actions/workflows/Firefox-Portable-Package.yml
-[link-license]: https://github.com/Piracola/Firefox-Portable/blob/main/LICENSE
+[link-actions]: https://github.com/xmirager/Firefox-Portable/actions/workflows/Firefox-Portable-Package.yml
+[link-license]: https://github.com/xmirager/Firefox-Portable/blob/main/LICENSE
