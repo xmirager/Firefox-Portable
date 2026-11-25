@@ -8,7 +8,8 @@ on:
   push:
     branches: [main, master]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '17 2 * * *'
+      timezone: Asia/Shanghai
 
 # 定时任务和 push 撞在一起时排队执行，避免两个构建抢同一个 Release 标签。
 concurrency:
