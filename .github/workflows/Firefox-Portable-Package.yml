@@ -20,7 +20,7 @@ jobs:
     permissions:
       contents: write
       actions: write
-    uses: Piracola/Gecko-Portable/.github/workflows/build-portable.yml@main
+    uses: xmirager/Gecko-Portable/.github/workflows/build-portable.yml@main
     with:
       browser: firefox
       # 中文版改成 zh-CN
