@@ -25,5 +25,5 @@ jobs:
     with:
       browser: firefox
       # 想发布中文版 Firefox，把这里改成 zh-CN 即可。
-      lang: zh-CN
+      lang: en-US
       release-notes-url: 'https://www.mozilla.org/en-US/firefox/{version}/releasenotes/'
