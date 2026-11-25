@@ -25,4 +25,5 @@ jobs:
       browser: firefox
       # 中文版改成 zh-CN
       lang: zh-CN
+      auto-commit-version: false
       release-notes-url: 'https://www.mozilla.org/zh-CN/firefox/{version}/releasenotes/'
