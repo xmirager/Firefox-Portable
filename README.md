@@ -19,10 +19,10 @@
 
 ## 仓库导航
 
-- [Releases 下载](https://github.com/Piracola/Firefox-Portable/releases/latest)：获取 `Firefox_<版本>.7z`
+- [Releases 下载](https://github.com/xmirager/Firefox-Portable/releases/latest)：获取 `Firefox_<版本>.7z`
 - [使用文档](./docs/usage.md)：目录结构、配置、校验与完整说明
 - [开发文档](./docs/development.md)：自动构建与本地复现
-- [Gecko-Portable](https://github.com/Piracola/Gecko-Portable)：通用构建器
+- [Gecko-Portable](https://github.com/xmirager/Gecko-Portable)：通用构建器
 - [Floorp_portable](https://github.com/Piracola/Floorp_portable) · [Zen-Portable](https://github.com/Piracola/Zen-Portable)：同系列项目
 
 ## 项目简介
